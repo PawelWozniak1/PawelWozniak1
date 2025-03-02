@@ -1,4 +1,4 @@
-**Hi, I’m Pawel, a data analyst and aspiring data scientist passionate about turning data into insights. Here, you'll find projects on data visualization, machine learning, and analytics. Let’s explore data together! 🚀**
+## **Hi, I’m Pawel, a data analyst and aspiring data scientist passionate about turning data into insights. Here, you'll find projects on data visualization, machine learning, and analytics. Let’s explore data together! 🚀** ##
 
 
 ## 🌐 Socials:
