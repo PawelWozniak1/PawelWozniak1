@@ -7,11 +7,6 @@
 Welcome to my GitHub! Here, you'll find projects showcasing my skills in data analysis, predictive modeling, and database management. I'm always eager to learn and collaborate, so feel free to connect!  
 
 
-## 🌐 **Connect with Me**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-wo%C5%BAniak-11a290234) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Wozniak.pawel.work@gmail.com)  
-
-
 ## 💻 **Tech Stack**  
 
 ### **Languages & Tools**  
@@ -22,3 +17,9 @@ Welcome to my GitHub! Here, you'll find projects showcasing my skills in data an
 ### **Databases**  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+
+## 🌐 **Connect with Me**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-wo%C5%BAniak-11a290234) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Wozniak.pawel.work@gmail.com)  
+
